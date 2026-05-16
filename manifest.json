@@ -1,0 +1,18 @@
+{
+  "name": "BrainMaster",
+  "short_name": "BrainMaster",
+  "description": "Test your brain in 5 quick minigames.",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fdf6e8",
+  "theme_color": "#fdf6e8",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
